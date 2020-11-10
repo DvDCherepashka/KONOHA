@@ -1,1 +1,2 @@
-  pygame.display.update()
+import pygame
+from random import randrange
